@@ -33,7 +33,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u git://github.com/Iscle/android.git -b cm-14.1_mtk
+    repo init -u git://github.com/Iscle/android.git -b cm-14.1
 
 Then to sync up:
 
